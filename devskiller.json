@@ -1,0 +1,7 @@
+{
+  "readOnlyFiles": ["tests/testthat/test-calculator.R"],
+  "verification" : {
+    "testNamePatterns" : ["verification.*"],
+    "pathPatterns" : ["**/test-verification-*.R"]
+  }
+}
